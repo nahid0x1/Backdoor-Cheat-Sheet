@@ -116,3 +116,9 @@ sudo systemctl disable backdoor.service
 sudo rm /etc/systemd/system/backdoor.service
 sudo systemctl daemon-reload
 ```
+
+# Author
+- **GitHub**: [@nahid0x1](https://github.com/nahid0x1)
+- **Twitter**: [@nahid0x1](https://x.com/nahid0x1)
+- **Linkedin**: [@nahid0x1](https://www.linkedin.com/in/nahid0x1)
+- **Email**: [nahid0x1.official@gmail.com](mailto:nahid0x1.official@gmail.com)
